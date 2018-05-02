@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">RustleUpMeasurings</string>
+    <string name="To">to</string>
+    <string name="flour">flour</string>
+    <string name="butter">butter</string>
+    <string name="heavycream">Heavy cream</string>
+    <string name="powderedsugar">Powdered sugar</string>
+    <string name="granulatedsugar">Granulated sugar</string>
+    <string name="fromUnits">fromUnits</string>
+
+    <string-array name="fromUnits">
+        <item>Cup to Gram</item>
+        <item>Stick to Ounces</item>
+        <item>Cup to Stick</item>
+        <item>Ounces to Gram</item>
+        <item>Gram to Cup</item>
+    </string-array>
+
+
+</resources>
